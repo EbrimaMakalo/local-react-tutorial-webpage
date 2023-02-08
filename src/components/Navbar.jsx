@@ -19,7 +19,7 @@ function Navbar () {
                 <div>
                     <ul className="text-white flex justify-evenly py-[3px] sm:h-[55px] items-center px-2 sm:px-5 md:px-10 lg:px-20 mx-5 md:mx-10 lg:mx-20">
                         <li className="flex mr-4 sm:mr-20 h-7 text-lg text-[#49DAFB] font-bold">
-                            <a href="../Home.jsx" className="flex">
+                            <a href="" className="flex">
                                 <img src={logo} alt="" />
                                 <p className="hidden sm:block">React</p>
                             </a>
