@@ -3,8 +3,8 @@ import React from "react";
 const SideNav = () => {
     return (
         <div className="">
-            <div className="w-1/3 float-right h-[5000px] hidden sm:flex flex-col justify-between pt-40 pl-10 bg-[#F7F7F7] ">
-                <ul className="fixed">
+            <div className="w-1/3 float-right h-[4850px] mb-0 hidden sm:flex flex-col justify-between text-sm pt-40 pl-10 bg-[#F7F7F7] ">
+                <ul className="fixed space-y-0.5">
                     <li className="pb-5">TUTORIAL</li>
                     <li>Before We Start the Tutorial</li>
                     <li>What Are We Building?</li>
